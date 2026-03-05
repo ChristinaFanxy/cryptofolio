@@ -40,7 +40,7 @@ AI 功能需要填入 API Key（存储在本地浏览器，不上传）。
 | **Claude（推荐）** | [console.anthropic.com](https://console.anthropic.com) | ✅ | ✅ |
 | OpenAI / GPT | [platform.openai.com](https://platform.openai.com) | ✅ | GitHub Pages 可用 |
 | DeepSeek | [platform.deepseek.com](https://platform.deepseek.com) | ❌ | GitHub Pages 可用 |
-| MiniMax | [platform.minimaxi.com](https://platform.minimaxi.com) | ❌ | 填写格式：`GroupID\|APIKey` |
+| MiniMax | [platform.minimaxi.com](https://platform.minimaxi.com) | ❌ | GitHub Pages 可用 |
 
 > 从本地 `file://` 打开时，只有 Claude API 支持直接调用。部署到 GitHub Pages 后，其他模型也可正常使用。
 
